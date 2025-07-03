@@ -7,6 +7,9 @@ This project analyzes the most streamed songs on Spotify in 2024. Using Python a
 ## Dataset
 - Source: Kaggle – "Most Streamed Spotify Songs 2024"
 - 4,600 songs, multiple platforms: Spotify, YouTube, TikTok, Apple Music
+- Dataset sourced from [Kaggle – Most Streamed Spotify Songs 2024](https://www.kaggle.com/datasets),  
+licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ## Tools Used
 - Python
